@@ -1,0 +1,14 @@
+target/
+*.log
+startup-live.txt
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+error.txt
+full-error.txt
+startup-error.txt
+startup-live.txt
